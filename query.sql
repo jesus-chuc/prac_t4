@@ -2,7 +2,7 @@
 
 START TRANSACTION;
 
-savepoint pruebaxd;
+savepoint pruebas;
 
 select * from "users";
 
